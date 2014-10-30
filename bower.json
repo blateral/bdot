@@ -1,0 +1,23 @@
+{
+  "name": "bdot",
+  "version": "0.1.0",
+  "authors": [
+    "Fabian Trinler <fabian.trinler@blateral.com>"
+  ],
+  "description": "let's put the dot in b.lateral",
+  "main": "scss/_bdot.scss",
+  "keywords": [
+    "scss",
+    "bdot",
+    "b.lateral"
+  ],
+  "license": "MIT",
+  "homepage": "http://blateral.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

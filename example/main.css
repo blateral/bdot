@@ -1,0 +1,12 @@
+.bdot {
+  padding-left: 5px;
+  text-decoration: none;
+  color: #1fc2f4;
+  font-family: arial;
+  font-size: 32px;
+  vertical-align: middle;
+  line-height: 1; }
+  .bdot span {
+    visibility: hidden;
+    font-size: 0;
+    color: transparent; }

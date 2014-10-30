@@ -1,0 +1,18 @@
+$bdot__color: #1fc2f4 !default;
+$bdot__size: 32px !default;
+
+.bdot {
+    padding-left: 5px;
+    text-decoration: none;
+    color: $bdot__color;
+    font-family: arial;
+    font-size: $bdot__size;
+    vertical-align: middle;
+    line-height: 1;
+
+    span {
+        visibility: hidden;
+        font-size: 0;
+        color: transparent;
+    }
+} 
